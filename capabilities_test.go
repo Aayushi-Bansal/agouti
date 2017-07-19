@@ -3,7 +3,7 @@ package agouti_test
 import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	. "github.com/sclevine/agouti"
+	. "github.com/saurabh-agarwals/agouti"
 )
 
 var _ = Describe("Capabilities", func() {

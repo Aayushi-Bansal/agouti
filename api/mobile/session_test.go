@@ -5,8 +5,8 @@ import (
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	"github.com/sclevine/agouti/api"
-	"github.com/sclevine/agouti/internal/mocks"
+	"github.com/saurabh-agarwals/agouti/api"
+	"github.com/saurabh-agarwals/agouti/internal/mocks"
 )
 
 var _ = Describe("Bus", func() {

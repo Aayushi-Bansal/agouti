@@ -3,8 +3,8 @@ package integration_test
 import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	"github.com/sclevine/agouti"
-	. "github.com/sclevine/agouti/matchers"
+	"github.com/saurabh-agarwals/agouti"
+	. "github.com/saurabh-agarwals/agouti/matchers"
 	"io/ioutil"
 	"net/http"
 	"net/http/httptest"

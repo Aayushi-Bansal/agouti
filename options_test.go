@@ -6,8 +6,8 @@ import (
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	. "github.com/sclevine/agouti"
-	. "github.com/sclevine/agouti/internal/matchers"
+	. "github.com/saurabh-agarwals/agouti"
+	. "github.com/saurabh-agarwals/agouti/internal/matchers"
 )
 
 var _ = Describe("Options", func() {
