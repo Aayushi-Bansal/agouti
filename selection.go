@@ -3,9 +3,9 @@ package agouti
 import (
 	"fmt"
 
-	"github.com/saurabh-agarwals/agouti/api"
-	"github.com/saurabh-agarwals/agouti/internal/element"
-	"github.com/saurabh-agarwals/agouti/internal/target"
+	"github.com/Aayushi-Bansal/agouti/api"
+	"github.com/Aayushi-Bansal/agouti/internal/element"
+	"github.com/Aayushi-Bansal/agouti/internal/target"
 )
 
 // Selection instances refer to a selection of elements.

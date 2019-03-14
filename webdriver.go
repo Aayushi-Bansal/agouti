@@ -3,7 +3,7 @@ package agouti
 import (
 	"fmt"
 
-	"github.com/saurabh-agarwals/agouti/api"
+	"github.com/Aayushi-Bansal/agouti/api"
 )
 
 // A WebDriver controls a WebDriver process. This struct embeds api.WebDriver,

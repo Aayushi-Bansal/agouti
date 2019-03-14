@@ -3,9 +3,9 @@ package agouti_test
 import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	. "github.com/saurabh-agarwals/agouti"
-	"github.com/saurabh-agarwals/agouti/api"
-	"github.com/saurabh-agarwals/agouti/internal/mocks"
+	. "github.com/Aayushi-Bansal/agouti"
+	"github.com/Aayushi-Bansal/agouti/api"
+	"github.com/Aayushi-Bansal/agouti/internal/mocks"
 )
 
 var _ = Describe("Selectable", func() {

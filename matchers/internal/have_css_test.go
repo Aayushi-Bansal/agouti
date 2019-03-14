@@ -5,8 +5,8 @@ import (
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	. "github.com/saurabh-agarwals/agouti/matchers/internal"
-	"github.com/saurabh-agarwals/agouti/matchers/internal/mocks"
+	. "github.com/Aayushi-Bansal/agouti/matchers/internal"
+	"github.com/Aayushi-Bansal/agouti/matchers/internal/mocks"
 )
 
 var _ = Describe("HaveCSS", func() {

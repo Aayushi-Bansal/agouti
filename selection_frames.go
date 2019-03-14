@@ -3,7 +3,7 @@ package agouti
 import (
 	"fmt"
 
-	"github.com/saurabh-agarwals/agouti/api"
+	"github.com/Aayushi-Bansal/agouti/api"
 )
 
 // SwitchToFrame focuses on the frame specified by the selection. All new and

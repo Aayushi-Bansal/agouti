@@ -3,8 +3,8 @@ package appium
 import (
 	"fmt"
 
-	"github.com/saurabh-agarwals/agouti"
-	"github.com/saurabh-agarwals/agouti/api/mobile"
+	"github.com/Aayushi-Bansal/agouti"
+	"github.com/Aayushi-Bansal/agouti/api/mobile"
 )
 
 type WebDriver struct {

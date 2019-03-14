@@ -3,7 +3,7 @@ package mocks
 import (
 	"encoding/json"
 
-	"github.com/saurabh-agarwals/agouti/api"
+	"github.com/Aayushi-Bansal/agouti/api"
 )
 
 type Session struct {

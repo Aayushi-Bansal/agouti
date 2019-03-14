@@ -8,7 +8,7 @@ import (
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	. "github.com/saurabh-agarwals/agouti/api/internal/bus"
+	. "github.com/Aayushi-Bansal/agouti/api/internal/bus"
 )
 
 var _ = Describe(".Connect", func() {

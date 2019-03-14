@@ -3,7 +3,7 @@ package agouti
 import (
 	"fmt"
 
-	"github.com/saurabh-agarwals/agouti/internal/element"
+	"github.com/Aayushi-Bansal/agouti/internal/element"
 )
 
 // Text returns the entirety of the text content for exactly one element.

@@ -1,9 +1,9 @@
 package agouti
 
 import (
-	"github.com/saurabh-agarwals/agouti/api"
-	"github.com/saurabh-agarwals/agouti/internal/element"
-	"github.com/saurabh-agarwals/agouti/internal/target"
+	"github.com/Aayushi-Bansal/agouti/api"
+	"github.com/Aayushi-Bansal/agouti/internal/element"
+	"github.com/Aayushi-Bansal/agouti/internal/target"
 )
 
 type Selectors interface {

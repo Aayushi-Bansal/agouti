@@ -1,6 +1,6 @@
 package mocks
 
-import "github.com/saurabh-agarwals/agouti/internal/element"
+import "github.com/Aayushi-Bansal/agouti/internal/element"
 
 type ElementRepository struct {
 	GetCall struct {

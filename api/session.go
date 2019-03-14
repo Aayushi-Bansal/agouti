@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/saurabh-agarwals/agouti/api/internal/bus"
+	"github.com/Aayushi-Bansal/agouti/api/internal/bus"
 )
 
 type Session struct {
